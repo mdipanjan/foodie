@@ -1,9 +1,11 @@
 module.exports = {
     
-    googleClientID:'process.env.GOOGLE_CLIENT_ID',
-    googleClientSecret:'process.env.GOOGLE_CLIENT_SECRET',
-    monoURI:'process.env.MONGO_URI',
-    cookieKey:'process.env.COOKIE_KEY'
+    googleClientID:'553924212565-7guf06fpe99nlm20p64u92h8cqtdahj2.apps.googleusercontent.com',
+    googleClientSecret:'C94sp0cPwRXUw1g6nPVWGGrd',
+    monoURI:'mongodb://foodieprod:foodieprod1@ds161074.mlab.com:61074/foodie-prod',
+    cookieKey:'dhtgfvyuhejfjefejkoeofjofjfjfi'
    
 };
+
+
 
